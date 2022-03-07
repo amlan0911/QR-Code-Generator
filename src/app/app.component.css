@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap');
+
+body{
+  color: #464287;
+}
+
+.container{
+  
+  
+  max-width: 40%;
+}
+.body{
+  
+  padding:16px;
+}
+.body > mat-card {
+  width: 200px;
+}
+.card{
+  color: whitesmoke;
+  background-color: black;
+    margin-top: 20px;
+    font-family: 'League Spartan', sans-serif;
+    
+}
+
+.mat-card-content{
+    justify-content: center;
+    font-size: 17px;
+}
+
+label{
+  padding:5px;
+}
+.generate{
+  display: flex;
+  justify-content: center;
+  padding:20px;
+}
+
+.container{
+  justify-content: center;
+  align-items: center;
+}
